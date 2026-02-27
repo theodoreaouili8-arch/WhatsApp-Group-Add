@@ -19,7 +19,7 @@ FIRST_NAME_FIELD = "First Name"
 LAST_NAME_FIELD = "Last Name"
 
 # Name of the Phone Number field
-PHONE_NUMBER_FIELD = "WhatsApp Number"
+PHONE_NUMBER_FIELD = "22891315230"
 
 # Unique identifier for contact names
 IDENTIFIER_STR = "XQCL"
